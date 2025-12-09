@@ -1,0 +1,39 @@
+# Core web framework
+streamlit>=1.42.0
+
+# AI and Machine Learning
+openai>=1.63.0
+langchain==0.3.19
+langchain-openai>=0.3.6
+
+# Vector Database
+pinecone>=6.0.1
+
+# Database
+psycopg2-binary>=2.9.10
+
+# Document Processing
+PyPDF2>=3.0.1
+trafilatura>=2.0.0
+
+# PDF Generation
+reportlab>=4.3.1
+
+# Data Processing
+pandas>=2.2.3
+pytest>=8.3.4
+cryptography>=43.0.3
+boto3>=1.35.68
+
+# Audio 
+# pyaudio>=0.2.14  # microphone input
+speechrecognition>=3.14.1
+
+# HTTP Requests
+requests>=2.32.3
+
+# Communication
+twilio>=9.4.5
+
+# AI Foundation
+anthropic>=0.45.2
